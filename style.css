@@ -1,0 +1,29 @@
+body {
+	background:grey ;
+	
+}
+
+h1 {
+	text-align: center;
+	color: green;
+	font-size: 100px
+	background:grey;
+ 
+
+}
+h2 {
+	text-align: center;
+	color: black;
+	font-size: 100px;
+	background:yellow;
+}
+span  { 
+	font-size:200px;
+	color:black;
+
+}
+.yelloe_letter{color:yellow;}
+.red_letter{color:red;}
+.black_letter{color:black;}
+.white_letter{color:white;}
+.purple_letter{color:purple;}
